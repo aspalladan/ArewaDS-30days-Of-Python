@@ -22,7 +22,7 @@ age = 30
 year = 2023
 
 # Declare is_married variable and assign a value
-is_married = True
+is_married = "No"
 
 # Declare is_true variable and assign a value
 is_true = False
